@@ -1,7 +1,3 @@
-theme: jekyll-theme-cayan
-title: Welcome to the Octocat's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Dyubaylo97/project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -15,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+theme: jekyll-theme-cayan
+title: Welcome to the Octocat's homepage!
+description: Feel free to bookmark this to keep an eye on my project updates
 
 - Bulleted
 - List
